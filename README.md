@@ -17,3 +17,5 @@ The analysis revealed valuable findings, including the identification of driver 
 The project demonstrates the application of data engineering and analysis techniques, including data cleaning, ETL processes using Snowflake and AWS, dimensional modeling, and data visualization, to derive actionable insights from a complex dataset. The findings can potentially inform data-driven decision-making and policymaking aimed at enhancing road safety and reducing the impact of motor vehicle collisions in New York City.
 
 ![image](https://github.com/nischitabiradar/NYC_Collisions_Project/assets/143463343/777817ed-77b1-409c-b82c-a5f0e5768e57)
+
+Original Dataset: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data
